@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Automating+Cloud+Infrastructure;Building+CI%2FCD+Pipelines;Containerizing+Applications;Building+Full-Stack+Side+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=50&lines=DevOps%20%26%20Cloud%20Infrastructure;AWS%20Infrastructure%20as%20Code%20(Terraform);Django%20%26%20Python%20Full-Stack%20Development;AI%2FML%20Integration%20%26%20Deployment" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -17,9 +17,6 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
 
 </div>
 
@@ -27,17 +24,22 @@
 
 ### 👨‍💻 Profile Overview
 
-> "Bridge the gap between code and infrastructure — building scalable systems by day, shipping innovative side projects by night."
+> "Bridging cloud automation with robust software engineering — architecting production-grade infrastructure by day, building intelligent full-stack platforms by night."
 
-I am a **DevOps Engineer** dedicated to automating workflows, optimizing cloud architectures, and ensuring seamless deployment pipelines. Alongside my engineering role, I actively build full-stack web applications and developer tools as side projects to keep my coding skills sharp.
+I am a **DevOps Engineer** specializing in Infrastructure as Code, AWS cloud setups, and containerization. In addition to cloud infrastructure, I build production-ready Django enterprise applications and integrate machine learning models into web interfaces.
 
 ```json
 {
   "username": "sherazharoon",
   "primary_role": "DevOps Engineer",
-  "side_hustle": "Full Stack & Tooling Developer",
-  "core_competencies": ["CI/CD Pipelines", "Infrastructure as Code", "Containerization", "Cloud Architecture"],
-  "hobbies": ["Open Source", "System Architecture", "Automating Everything"]
+  "development_focus": "Django Full Stack & Applied ML Systems",
+  "cloud_platforms": ["AWS (EC2, ECS, VPC, IAM)", "Terraform", "Docker"],
+  "core_competencies": [
+    "3-Tier Cloud Architectures",
+    "Infrastructure as Code",
+    "CI/CD Pipeline Automation",
+    "Enterprise ERP Development"
+  ]
 }
 ```
 ## ⚡ What I Do
