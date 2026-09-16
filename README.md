@@ -1,90 +1,92 @@
 <div align="center">
-
-  <h1>👋 Hi, I'm Sheraz Haroon</h1>
-  <h3>🚀 DevOps Engineer | Cloud Architecture | Full-Stack Developer</h3>
-
-  <p><b>Automating Cloud Deployments with AWS, Terraform, Docker & CI/CD Pipelines</b></p>
+  <h1>👋 Hi, I'm Muhammad Sheraz Tanveer</h1>
+  
+  <!-- Fixed URL encoding -->
+  <a href="https://github.com/sheraztanveer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+System+%26+DevOps+Engineer;AWS+Certified+Solutions+Architect;FinOps+%26+Cloud+Cost+Optimization;AI%2FRAG+Integration+Developer" alt="Typing SVG" />
+  </a>
 
   <br/>
 
-  <!-- Fixed Animated Typing SVG (URL Encoded) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=DevOps+%26+Cloud+Infrastructure;AWS+Infrastructure+as+Code+(Terraform);Django+%26+Python+Full-Stack+Development;AI%2FML+Integration+%26+Deployment" alt="Typing SVG" />
+  <img src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="DevOps Animation"/>
 
   <br/><br/>
 
-  <!-- Interactive Badges -->
-  <a href="https://linkedin.com/in/muhammad-sheraz-tanveer-527214187">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="haroontanveer8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <p>
+    <a href="https://linkedin.com/in/sheraztanveer" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sheraztanveer97@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
+---
+
+## 👨‍💻 About Me
+
+I am a **Software System and DevOps Engineer** with hands-on experience in both development and operations, focused on bridging the gap between software delivery and infrastructure management. I am dedicated to building secure, efficient, and highly available platforms while promoting collaboration and continuous improvement. 
+
+Currently, I am working as a Software Systems and DevOps Engineer at Xgrid in Lahore, delivering secure cloud infrastructure and intelligent solutions. Previously, I worked as an Associate DevOps Engineer at Hybytes.
+
+### 🏆 Certifications
+* **AWS Certified Developer – Associate** (November 2025)
+* **AWS Certified Solutions Architect – Associate** (April 2023)
+* **AWS Certified Cloud Practitioner** (January 2023)
+
+---
+
+## 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+  **Cloud, DevOps & Automation**  
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+
+  <br/><br/>
+
+  **Development, Data & Monitoring**  
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/SumoLogic-000000?style=for-the-badge&logo=sumologic&logoColor=white" alt="Sumo Logic"/>
 
 </div>
 
 ---
 
-### 👨‍💻 Profile Overview
+## 🚀 Key Engineering Achievements
 
-> "Bridging cloud automation with robust software engineering — architecting production-grade infrastructure by day, building intelligent full-stack platforms by night."
-
-I am a **DevOps Engineer** specializing in Infrastructure as Code, AWS cloud setups, and containerization. In addition to cloud infrastructure, I build production-ready Django enterprise applications and integrate machine learning models into web interfaces.
-
-```json
-{
-  "username": "sherazharoon",
-  "primary_role": "DevOps Engineer",
-  "development_focus": "Django Full Stack & Applied ML Systems",
-  "cloud_platforms": ["AWS (EC2, ECS, VPC, IAM)", "Terraform", "Docker"],
-  "core_competencies": [
-    "3-Tier Cloud Architectures",
-    "Infrastructure as Code",
-    "CI/CD Pipeline Automation",
-    "Enterprise ERP Development"
-  ]
-}
-```
-## 🛠️ Tech Stack & Ecosystem
-
-### Cloud, DevOps & Infrastructure
-* **Cloud & Orchestration:** AWS (EC2, ECS, VPC, IAM), Docker, Kubernetes
-* **Infrastructure as Code & CI/CD:** Terraform, Jenkins, GitHub Actions
-* **Operating Systems:** Linux, Bash Scripting
-
-### Development & Machine Learning
-* **Backend Development:** Python, Django, REST APIs
-* **Databases:** PostgreSQL, MySQL
-* **Machine Learning & NLP:** Data Preprocessing, NLP Model Development, Flask/Django Integration
+* 📉 **Cloud Cost Optimization (FinOps):** Reduced cloud spend by ~30% by enforcing Policy-as-Code and FinOps automation using Cloud Custodian, including automated weekend resource shutdowns.
+* 🤖 **AI-Powered FinOps Chatbot:** Engineered an executive-facing AI chatbot using agentic AI and RAG workflows, enabling C-level executives to query AWS cost insights directly.
+* 🏗️ **Self-Service CI/CD Architecture:** Architected a 3-repository self-service pipeline (Terraform Parent Module, Service Configs, DB Parameters) that automated end-to-end ECS infrastructure deployments, cutting cycle times from hours to minutes.
+* ⚙️ **Terraform State Migration:** Migrated Terraform state infrastructure from Terraform Cloud to AWS S3 with DynamoDB state locking to enhance operational control and reduce licensing costs.
+* 🛠️ **Internal Productivity Tooling:** Developed a Django-based internal productivity tool integrating Jira and Confluence APIs to streamline incident reporting, notifications, and remediation tracking.
 
 ---
-
-## 📌 Featured Projects
-
-| Project | Domain | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| 🏗️ **3-Tier AWS Infrastructure** | DevOps / IaC | `Terraform`, `AWS EC2`, `AWS ECS`, `VPC` | Provisioned fully automated 3-tier architectures on AWS using both EC2 instance pools and containerized ECS clusters. |
-| 💼 **Django Enterprise ERP System** | Development | `Python`, `Django`, `PostgreSQL` | Built a full-fledged enterprise resource planning (ERP) platform for business resource automation and module management. |
-| 🤖 **Hate Speech Detection Platform** | AI / Web | `Python`, `Django`, `NLP`, `ML` | Trained an NLP hate-speech classification model and integrated it into an interactive web interface for real-time text analysis. |
-
----
-
-## 🎯 Planned & Upcoming Projects
-
-* 🔄 **Automated Jenkins CI/CD Deployment:** Designing end-to-end automated pipelines for multi-stage building, testing, and cloud deployment.
-* 👥 **Django Employee Management System (EMS):** Full-stack web application featuring role-based access control (RBAC), attendance tracking, and reporting.
-* ⚡ **Additional DevOps & Cloud Labs:** Building production-ready GitOps, Kubernetes monitoring setups, and serverless workflow architectures.
-
----
-
 ## 📊 Real-Time GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherazharoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherazharoon&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</div>
 
----
+  <a href="https://github.com/sherazharoon?tab=repositories">
+    <img src="https://img.shields.io/github/followers/sherazharoon?style=for-the-badge&logo=github&color=36BCF7&labelColor=0d1117" alt="Followers" />
+    <img src="https://img.shields.io/badge/Repositories-7+-36BCF7?style=for-the-badge&logo=github&labelColor=0d1117" alt="Repositories" />
+    <img src="https://komarev.com/ghpvc/?username=sherazharoon&style=for-the-badge&color=36BCF7&labelColor=0d1117&label=PROFILE%20VIEWS" alt="Profile Views" />
+  </a>
 
-<div align="center">
-  <sub>Designed & Maintained by <b>Sheraz Haroon</b></sub>
+  <br/><br/>
+
+  <!-- Contribution Heatmap -->
+  <img src="https://ghchart.rshah.org/36BCF7/sherazharoon" width="100%" alt="Sheraz's GitHub Contribution Graph" />
+
+  <br/><br/>
+  <sub>Designed & Maintained by <b>Muhammad Sheraz Tanveer</b></sub>
 </div>
