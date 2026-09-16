@@ -1,20 +1,22 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=Hey%20there,%20I'm%20Sheraz!%20🚀&fontSize=40&fontColor=fff&animation=twinkling&desc=DevOps%20Engineer%20%7C%20Full%20Stack%20%26%20Side-Project%20Builder&descSize=18" width="100%" />
+  <h1>👋 Hi, I'm Sheraz Haroon</h1>
+  <h3>🚀 DevOps Engineer | Cloud Architecture | Full-Stack Developer</h3>
 
-  <!-- Animated Typing Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=50&lines=DevOps%20%26%20Cloud%20Infrastructure;AWS%20Infrastructure%20as%20Code%20(Terraform);Django%20%26%20Python%20Full-Stack%20Development;AI%2FML%20Integration%20%26%20Deployment" alt="Typing SVG" />
-  </a>
+  <p><b>Automating Cloud Deployments with AWS, Terraform, Docker & CI/CD Pipelines</b></p>
+
+  <br/>
+
+  <!-- Fixed Animated Typing SVG (URL Encoded) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=DevOps+%26+Cloud+Infrastructure;AWS+Infrastructure+as+Code+(Terraform);Django+%26+Python+Full-Stack+Development;AI%2FML+Integration+%26+Deployment" alt="Typing SVG" />
 
   <br/><br/>
 
   <!-- Interactive Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/muhammad-sheraz-tanveer-527214187">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="haroontanveer8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
@@ -42,32 +44,44 @@ I am a **DevOps Engineer** specializing in Infrastructure as Code, AWS cloud set
   ]
 }
 ```
-## ⚡ What I Do
-
-* 🛠️ **DevOps & Infrastructure:** Architecting resilient cloud environments, writing Terraform code, setting up CI/CD pipelines, and managing Kubernetes clusters.
-* 💻 **Side Projects:** Crafting responsive web apps, REST APIs, and microservices using modern developer frameworks.
-* 🎯 **Current Focus:** Deep-diving into Cloud Native ecosystems, GitOps practices, and serverless architectures.
-* 📫 **Reach Me:** Open for tech discussions, DevOps consultations, and collaborative side projects!
-
----
-
 ## 🛠️ Tech Stack & Ecosystem
 
-* **DevOps, Cloud & Infrastructure**
-* **Development & Databases**
+### Cloud, DevOps & Infrastructure
+* **Cloud & Orchestration:** AWS (EC2, ECS, VPC, IAM), Docker, Kubernetes
+* **Infrastructure as Code & CI/CD:** Terraform, Jenkins, GitHub Actions
+* **Operating Systems:** Linux, Bash Scripting
 
----
-
-## 📊 Real-Time GitHub Analytics
+### Development & Machine Learning
+* **Backend Development:** Python, Django, REST APIs
+* **Databases:** PostgreSQL, MySQL
+* **Machine Learning & NLP:** Data Preprocessing, NLP Model Development, Flask/Django Integration
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Role | Stack | Description |
+| Project | Domain | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| 🚀 **[DevOps Pipeline Setup]** | DevOps | `GitHub Actions`, `Docker`, `AWS` | End-to-end automated deployment pipeline for microservices. |
-| 🌐 **[Full-Stack App]** | Developer | `Node.js`, `React`, `PostgreSQL` | Side-project web application built to solve developer workflow issues. |
+| 🏗️ **3-Tier AWS Infrastructure** | DevOps / IaC | `Terraform`, `AWS EC2`, `AWS ECS`, `VPC` | Provisioned fully automated 3-tier architectures on AWS using both EC2 instance pools and containerized ECS clusters. |
+| 💼 **Django Enterprise ERP System** | Development | `Python`, `Django`, `PostgreSQL` | Built a full-fledged enterprise resource planning (ERP) platform for business resource automation and module management. |
+| 🤖 **Hate Speech Detection Platform** | AI / Web | `Python`, `Django`, `NLP`, `ML` | Trained an NLP hate-speech classification model and integrated it into an interactive web interface for real-time text analysis. |
+
+---
+
+## 🎯 Planned & Upcoming Projects
+
+* 🔄 **Automated Jenkins CI/CD Deployment:** Designing end-to-end automated pipelines for multi-stage building, testing, and cloud deployment.
+* 👥 **Django Employee Management System (EMS):** Full-stack web application featuring role-based access control (RBAC), attendance tracking, and reporting.
+* ⚡ **Additional DevOps & Cloud Labs:** Building production-ready GitOps, Kubernetes monitoring setups, and serverless workflow architectures.
+
+---
+
+## 📊 Real-Time GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sherazharoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherazharoon&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</div>
 
 ---
 
